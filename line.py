@@ -1,4 +1,4 @@
-def line():
+def line():#
     primcoef = (float(input("Ingrese el coeficiente A: ")))
     segcoef = (float(input("Ingrese el coeficiente B: ")))
     xcoef = (float(input("Ingrese el coeficiente X1: ")))
